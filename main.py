@@ -48,7 +48,7 @@ def get_dgpa_all():
         print("獲取更新時間失敗")
     else:
         print(updateTime)
-s
+
     for range in cityList:
         table_body = soup.find('tbody', class_='Table_Body')  #找到包含縣市資訊的tbody元素
         for trRow in table_body.find_all('tr'):
