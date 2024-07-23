@@ -8,4 +8,4 @@ Last update: 2024.07.23
 Allow user to input a exited city or county, and attempt to scrape information of work and class suspensions due to natural disasters from [www.dgpa.gov.tw](www.dgpa.gov.tw) using "requests" and "BeautifulSoup" modules.
 
 # Example
-![alt text](http://url/to/img.png)
+![alt text](https://raw.githubusercontent.com/laiii97/get_dgpa/main/exp.png)
